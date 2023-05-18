@@ -1,4 +1,5 @@
 *.iml
+<<<<<<< HEAD
 .gradle
 /local.properties
 /.idea/caches
@@ -13,3 +14,21 @@
 .externalNativeBuild
 .cxx
 local.properties
+=======
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+gradlew.bat
+
+>>>>>>> 459e8191aafebbde46b4e0c330e859f48ddf986a
